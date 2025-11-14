@@ -1,0 +1,8 @@
+# Ignore everything
+*
+
+# Except .gitignore itself (so Git can track it)
+!.gitignore
+
+# Except .asm files
+!*.asm
